@@ -1,0 +1,11 @@
+{
+  "name": "ai-response-system",
+  "version": "1.0.0",
+  "description": "AI Response Management System Frontend",
+  "scripts": {
+    "build": "tailwindcss build -i ./static/css/src/main.css -o ./static/css/dist/main.css --watch"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
