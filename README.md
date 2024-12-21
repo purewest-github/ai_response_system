@@ -1,0 +1,2 @@
+# ai_response_system
+ClaudeとChatGPTのハイブリッドAPI
